@@ -1,0 +1,20 @@
+2020-04-26 23:04:330 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-26 23:04:479 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-26 23:04:749 INFO  HomePage :29 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (5d50755c96d98f9c5be194b5c5741023)] -> link text: Log In]
+2020-04-26 23:04:759 INFO  LoginPage :21 - Getting Login text [[ChromeDriver: chrome on WINDOWS (5d50755c96d98f9c5be194b5c5741023)] -> id: label-mainheading]
+2020-04-26 23:04:697 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-26 23:04:669 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-26 23:04:918 INFO  HomePage :35 - Clicking on Register button [[ChromeDriver: chrome on WINDOWS (684ad11ce9d37a542943d1cce660ee60)] -> link text: Register]
+2020-04-26 23:04:790 INFO  RegisterPage :21 - Clicking register text [[ChromeDriver: chrome on WINDOWS (684ad11ce9d37a542943d1cce660ee60)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-27 00:04:414 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 00:04:795 INFO  HomePage :41 - Clicking on contact button [[ChromeDriver: chrome on WINDOWS (8b1c9163418ddc4b58192df15d166108)] -> xpath: //span[contains(text(),'Contact us')]]
+2020-04-27 00:04:543 INFO  ContactUsPage :23 - Getting contact us text [[ChromeDriver: chrome on WINDOWS (8b1c9163418ddc4b58192df15d166108)] -> xpath: //h1[contains(text(),'Contact us')]]
+2020-04-27 00:04:586 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 00:04:788 INFO  HomePage :47 - Clicking on find bramch button [[ChromeDriver: chrome on WINDOWS (5558c74595e047a5145ab2ec6117b6ed)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-27 00:04:10 INFO  FindBranchPage :21 - Getting branch finder text [[ChromeDriver: chrome on WINDOWS (5558c74595e047a5145ab2ec6117b6ed)] -> id: page-title]
+2020-04-27 00:04:71 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 00:04:120 INFO  HomePage :29 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (36174c93ba3f0a139ad370ee22de87c1)] -> link text: Log In]
+2020-04-27 00:04:796 INFO  LoginPage :21 - Getting Login text [[ChromeDriver: chrome on WINDOWS (36174c93ba3f0a139ad370ee22de87c1)] -> id: label-mainheading]
+2020-04-27 00:04:875 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-27 00:04:743 INFO  HomePage :35 - Clicking on Register button [[ChromeDriver: chrome on WINDOWS (59de57156a2a9f4784fc625ca76d6c7e)] -> link text: Register]
+2020-04-27 00:04:328 INFO  RegisterPage :21 - Clicking register text [[ChromeDriver: chrome on WINDOWS (59de57156a2a9f4784fc625ca76d6c7e)] -> xpath: //h2[@class='h2 jumbo-title']]
